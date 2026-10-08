@@ -24,4 +24,20 @@ O **Coffee Lab** é um site moderno e responsivo focado na experiência do clien
 - **Aroma Imperial (150ml)** - *R$ 12,00*  
   Sofisticado e encorpado, com notas de chocolate meio amargo e um toque de especiarias.
 - **Ponto Torrado (150ml)** - *R$ 8,50*  
-  Torra média-escura equilibrada, sabor intenso e sem
+  Torra média-escura equilibrada, sabor intenso e sem amargor excessivo.
+- **Urban Bean (150ml)** - *R$ 14,00*  
+  Torra clara moderna com acidez cítrica vibrante e aromas florais.
+
+---
+
+## 🚀 Como Executar o Projeto
+
+### Pré-requisitos
+
+Antes de começar, certifique-se de ter o **Node.js** e o **npm** instalados na sua máquina.
+
+### Passo a passo
+
+1. **Clonar o repositório:**
+   ```bash
+   git clone [https://github.com/AntonioMarcos3006/coffe-lab.git](https://github.com/AntonioMarcos3006/coffe-lab.git)
